@@ -15,7 +15,9 @@ risk of a compromise of the stored credentials.
 When you use a user name and password to authenticate, Identity does not
 enforce policies on password strength, expiration, or failed
 authentication attempts as recommended by NIST Special Publication
-800-118 (draft). Organizations that desire to enforce stronger password
+`800-118
+<http://csrc.nist.gov/publications/PubsDrafts.html#SP-800-118>`_
+(draft). Organizations that desire to enforce stronger password
 policies should consider using Identity extensions or external
 authentication services.
 
